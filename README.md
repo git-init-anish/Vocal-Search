@@ -35,5 +35,3 @@ Future Enhancements
 2)Multi-language support for speech recognition and summarization.
 3)Mobile or Web UI integration for a better user experience.
 
-
-### Contributions are welcome! Feel free to open issues and submit pull requests.

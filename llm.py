@@ -73,6 +73,6 @@ def process_voice_query(audio_file):
 
 
 
-audio_path="/Users/anishkumariyer/Documents/Samsung/Record-016.wav"
+audio_path="path/to/your.file/Record.wav"
 summary= process_voice_query(audio_path)
 print(summary)

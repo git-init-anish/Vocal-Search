@@ -1,0 +1,17 @@
+langchain
+ollama
+whisper
+librosa
+noisereduce
+pydub
+selenium
+webdriver_manager
+google-api-python-client
+faiss-cpu
+sentence-transformers
+requests
+numpy
+soundfile
+pydub
+concurrent.futures
+webrtcvad

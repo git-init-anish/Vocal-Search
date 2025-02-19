@@ -4,17 +4,17 @@ This project is a Speech-Based AI Search Engine that enables users to ask questi
 
 Core Features
 
-1)Converts voice input into text using Whisper.
+1) Converts voice input into text using Whisper.
 
-2)Enhances audio quality by noise reduction and silence removal.
+2) Enhances audio quality by noise reduction and silence removal.
 
-3)Web Scraping & Search Engine Integration based ona Google Search
+3) Web Scraping & Search Engine Integration based ona Google Search
 
-4)Extracts webpage content using Selenium.
+4) Extracts webpage content using Selenium.
 
-5)Retrieves the most relevant documents using FAISS.
+5) Retrieves the most relevant documents using FAISS.
 
-6)Processes the retrieved documents and generates a summarized response.
+6) Processes the retrieved documents and generates a summarized response.
 
 
 Libraries & Frameworks

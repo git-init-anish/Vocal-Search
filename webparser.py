@@ -12,8 +12,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 from sentence_transformers import SentenceTransformer
 
 
-GOOGLE_API_KEY = "AIzaSyA5MTtoKvgvv-jMsYJZT5VnR61woaGNArk"
-SEARCH_ENGINE_ID = "64931ce0073504dc8"
+GOOGLE_API_KEY = "Google_Search_API_Key"
+SEARCH_ENGINE_ID = "Google_Search_Engine_Key"
 
 
 embedding_model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")

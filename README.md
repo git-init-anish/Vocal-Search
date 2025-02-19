@@ -35,3 +35,8 @@ Future Enhancements
 2)Multi-language support for speech recognition and summarization.
 3)Mobile or Web UI integration for a better user experience.
 
+## How to Run ?
+Clone the Repo and run
+```python
+python llm.py
+```
